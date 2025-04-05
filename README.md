@@ -5,7 +5,7 @@ A classic arcade-style Whack-a-Mole game built with HTML, CSS, and JavaScript. T
 ---
 
 
-[🔗 Play the Game](https://your-github-username.github.io/whack-a-mole/)
+[🔗 Play the Game](https://jkfaris94.github.io/Whack-a-Mole/)
 
 ---
 
